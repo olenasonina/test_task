@@ -1,0 +1,15 @@
+{
+    "name": "olena/mobiledetect",
+    "description": "mobile detection and display of content in accordance with it",
+    "type": "project",
+    "require": {
+        "jenssegers/agent": "^2.6",
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "authors": [
+        {
+            "name": "Olena Sonina",
+            "email": "o.sonina1986@gmail.com"
+        }
+    ]
+}
