@@ -9,7 +9,7 @@
                 <?php require_once 'mobile.view.php' ?>
             </div>
         <?php else: ?>
-            <?php require_once 'mobile.view.php' ?>
+            <?php require_once 'nonmobile.view.php' ?>
         <?php endif ?>
     </div>
 </div>
